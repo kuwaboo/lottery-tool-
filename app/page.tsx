@@ -60,8 +60,8 @@ export default function Home() {
 
         <div className="text-center mb-10">
           <div className="text-5xl mb-3">✨</div>
-          <h1 className="text-3xl font-bold mb-2">直感数字占い</h1>
-          <p className="text-purple-300 text-sm">あなたの直感と音霊が導く数字</p>
+          <h1 className="text-3xl font-bold mb-2">くじナンバーピッカー</h1>
+          <p className="text-purple-300 text-sm">あなたの直感で数字を選ぶツール</p>
         </div>
 
         {step === 'input' && (
